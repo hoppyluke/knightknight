@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="768"
+   height="192"
+   id="svg11580"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="endgametext.svg"
+   inkscape:export-filename="C:\Users\luke\Pictures\sgo\tunnel\endgametext.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs11582" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="388.49616"
+     inkscape:cy="92.400097"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid11588"
+       empspacing="64"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata11585">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-860.36218)">
+    <text
+       xml:space="preserve"
+       style="font-size:83.65111542px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#daa520;fill-opacity:1;stroke:#000000;stroke-width:2.32364202;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Medieval Sharp;-inkscape-font-specification:Medieval Sharp Bold"
+       x="0.95759463"
+       y="1051.2003"
+       id="text11590"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11592"
+         x="0.95759463"
+         y="1051.2003"
+         style="font-size:83.65111542px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;stroke-width:2.32364202;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;font-family:Medieval Sharp;-inkscape-font-specification:Medieval Sharp Bold">West is Best!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:83.6600647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#daa520;fill-opacity:1;stroke:#000000;stroke-width:2.31704235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Medieval Sharp;-inkscape-font-specification:Medieval Sharp Bold"
+       x="-6.1944141"
+       y="987.20367"
+       id="text12102"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12104"
+         x="-6.1944141"
+         y="987.20367"
+         style="font-size:83.6600647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;stroke-width:2.31704235;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;font-family:Medieval Sharp;-inkscape-font-specification:Medieval Sharp Bold">East is the Beast!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:110.99305725px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#daa520;fill-opacity:1;stroke:#000000;stroke-width:2.32364202;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Teutonic No1;-inkscape-font-specification:Teutonic No1 Semi-Bold"
+       x="-6.1903276"
+       y="923.20038"
+       id="text12106"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12108"
+         x="-6.1903276"
+         y="923.20038"
+         style="font-size:83.65111542px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;stroke-width:2.32364202;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;font-family:Medieval Sharp;-inkscape-font-specification:Medieval Sharp Bold">It's a Draw!</tspan></text>
+  </g>
+</svg>
